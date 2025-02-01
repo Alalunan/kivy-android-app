@@ -9,6 +9,9 @@ package.name = mykivyapp
 # Домен (например, com.example)
 package.domain = org.example
 
+# Директория с исходным кодом
+source.dir = .
+
 # Исходный код
 source.include_exts = py,png,jpg,kv,atlas
 
